@@ -16,7 +16,7 @@ class Moraouid {
 
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | 👨‍💻 Hi! I’m Soufiane El Abboubi <br> 🎂 Age: 22 | 💻 Software Engineer <br> 🔭 I’m currently working on: Building scalable software solutions and improving my skills in software architecture.
+| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | 👨‍💻 Hi! I’m Soufiane El Abboubi <br> 🎂 Age: 22  💻 Software Engineer <br> 🔭 I’m currently working on: Building scalable software solutions and improving my skills in software architecture.
 
 
 
