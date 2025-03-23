@@ -1,4 +1,4 @@
-class Moraouid {
+```class Moraouid {
 	private :
 		std::string	Name = "Soufiane El Abboubi";
 		std::string	SU = "Moraouid";
@@ -10,3 +10,4 @@ class Moraouid {
 		std::string 	getStringCredentials();
 		int	    	getAge();
 }
+```
