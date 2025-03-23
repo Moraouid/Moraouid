@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Moraouid
-<!--- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... --->
-
-<!---
-Moraouid/Moraouid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class Moraouid {
+	private :
+		std::string	Name = "Soufiane El Abboubi";
+		std::string	SU = "Moraouid";
+		std::string	Quote = "Sell your house of cards while it still looks like a castle";
+		int		Age = 22;
+	public :
+		Moraouid();
+		~Moraouid();
+		std::string 	getStringCredentials();
+		int	    	getAge();
+}
