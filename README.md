@@ -1,4 +1,5 @@
-```class Moraouid {
+``` CPP
+class Moraouid {
 	private :
 		std::string	Name = "Soufiane El Abboubi";
 		std::string	SU = "Moraouid";
