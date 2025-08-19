@@ -11,7 +11,7 @@ class Moraouid {
 
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | 👨‍💻 Hi! I’m Soufiane El Abboubi <br> 🎂 Age: 22
+| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | 👨‍💻 Hi! I’m Soufiane El Abboubi <br>
 
 
 ## 🌐 Socials:
