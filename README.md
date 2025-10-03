@@ -9,8 +9,8 @@ class Moraouid {
 }
 ```
 
-| My 42 Stats | 
-| --- | :bar_chart: GitHub Stats: |
+| My 42 Stats | :bar_chart: GitHub Stats: |
+| --- |--- |
 | [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | ![  ](https://github-readme-stats.vercel.app/api/top-langs/?username=moraouid&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 
 
