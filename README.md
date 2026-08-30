@@ -4,7 +4,7 @@ class Moraouid {
 	AboutMe :
 		std::string	Name = "Soufiane El Abboubi";
 		std::string	UserName = "Moraouid";
-		std::string	Quote = "Code is like jok. When you have to explain it, it’s bad.";
+		std::string	Quote = "Code is like jok. When you have to explain it, it’s bad...";
 		int		Age = 24;
 }
 ```
