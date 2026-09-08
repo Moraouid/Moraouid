@@ -11,7 +11,7 @@ class Moraouid {
 
 | My 42 Stats | :bar_chart: GitHub Stats: |
 | --- |--- |
-| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moraouid&theme=dark)](https://git.io/streak-stats)<br>
+| [![sel-abbo's 42 stats](https://badge.mediaplus.ma/landscapes/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moraouid&theme=dark)]()<br>
 
 
 ## 🌐 Socials:
