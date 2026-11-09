@@ -11,7 +11,7 @@ class Moraouid {
 
 | My 42 Stats | :bar_chart: GitHub Stats: |
 | --- |--- |
-| [![Elite 1337 rank](https://www.elite-1337.app/api/card/200205.svg?t=EB2ITkRYm6gNMgR_yOKR8Qi8XUum-0qWl-X_NKZz890&theme=black&art=blocks)]([https://www.elite-1337.app](https://profile.intra.42.fr/users/sel-abbo)) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moraouid&theme=dark)<br>
+| [![Elite 1337 rank](https://www.elite-1337.app/api/card/200205.svg?t=EB2ITkRYm6gNMgR_yOKR8Qi8XUum-0qWl-X_NKZz890&theme=black&art=blocks)]([[https://www.elite-1337.app](https://profile.intra.42.fr/users/sel-abbo)](https://profile.intra.42.fr/users/sel-abbo)) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moraouid&theme=dark)<br>
 
 
 ## 🌐 Socials:
